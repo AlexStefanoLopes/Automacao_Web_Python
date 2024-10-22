@@ -1,5 +1,5 @@
 from selenium import webdriver
-
+#TESTE
 #Devido a já estar importando o webdriver, nem precisaria declarar o caminho nem a função executable_path
 navegador = webdriver.Chrome(executable_path=r'C:\Users\Alex\PycharmProjects\AnaliseBonusViagem\venv\Scripts\chromedriver.exe')
 
